@@ -54,9 +54,9 @@ while playAgain == 'yes':
   else:
     print("Player 2 made an invalid move! Restarting Game")
     print("")
+
 print("Thanks for playing! - Riley")
 input("Press any key to exit...")
-exit()   
-  
+exit()
 
   
